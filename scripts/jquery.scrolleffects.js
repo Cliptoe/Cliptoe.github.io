@@ -1,19 +1,5 @@
 /*
- ADOBE CONFIDENTIAL
- ___________________
-
- Copyright 2013 Adobe Systems Incorporated
- All Rights Reserved.
-
- NOTICE:  All information contained herein is, and remains
- the property of Adobe Systems Incorporated and its suppliers,
- if any.  The intellectual and technical concepts contained
- herein are proprietary to Adobe Systems Incorporated and its
- suppliers and may be covered by U.S. and Foreign Patents,
- patents in process, and are protected by trade secret or copyright law.
- Dissemination of this information or reproduction of this material
- is strictly forbidden unless prior written permission is obtained
- from Adobe Systems Incorporated.
+ FUCKK UUU SCROLLE
 */
 (function(a){var b=a("#page"),c=a(window),d=function(a,b,c){this.service=a;this.elem=b;this.data=c;this.cssProxy=this.service.cssProxy;this.enabled=c&&0<c.length;this.visible=!0;this.isMarkedAsOOV=!1;this.hasPreInitClass=this.elem.hasClass(d.HIDDEN_CLASS)};d.HIDDEN_CLASS="mse_pre_init";d.prototype.clone=function(a){a.hasClass(d.HIDDEN_CLASS)||a.addClass(d.HIDDEN_CLASS);a.registerGenericScrollEffect(d,this.data)};d.prototype.initialize=function(){this.referenceOffset=this.data[0]["in"][1];this.elemWidth=
 this.elem.innerWidth();this.elemHeight=this.elem.innerHeight();this.skipVisibleCheck=this.elemWidth<1;for(var a,b=0,c;c=this.data[b];b++)c.length=c["in"][1]-c["in"][0],c.startPosition=a?{left:a.startPosition.left+a.length*a.speed[0],top:a.startPosition.top+a.length*a.speed[1]}:{left:-c.length*c.speed[0],top:-c.length*c.speed[1]},a=c};d.prototype.update=function(a,b,c){var g=this.elementLeft-c.scrollLeft,f=this.elementTop-this.referenceOffset,h=a.startPosition.left+a.speed[0]*b,b=a.startPosition.top+
