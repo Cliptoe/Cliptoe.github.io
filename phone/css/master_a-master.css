@@ -54,13 +54,25 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #666666;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
+	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
+}
+
+#u1126:hover #u1128-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1126:active #u1128-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 #u1154
@@ -77,13 +89,25 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #666666;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
+	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
+}
+
+#u1154:hover #u1155-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1154:active #u1155-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 #u1204
@@ -100,13 +124,25 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #666666;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
+	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
+}
+
+#u1204:hover #u1207-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1204:active #u1207-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
 }
 
 #u1119,#u1120-3.AccordionPanelTabOpen,#u1123,#u1153,#u1203,#u1178
@@ -128,18 +164,30 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #666666;
+	line-height: 22px;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
+	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
+#u1179:hover #u1182-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u1179:active #u1182-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
 #u1126.MuseMenuActive #u1128-4 p,#u1154.MuseMenuActive #u1155-4 p,#u1204.MuseMenuActive #u1207-4 p,#u1179.MuseMenuActive #u1182-4 p
 {
-	color: #00FFFF;
+	color: #FFFFFF;
 	visibility: inherit;
 	font-family: maven-pro, sans-serif;
 	font-weight: 500;
@@ -160,5 +208,29 @@
 #u1302
 {
 	background: transparent url("../../images/snm%20bg.jpg") no-repeat center center;
+}
+
+#u1332
+{
+	position: relative;
+	background: transparent url("../../images/gem.png") no-repeat center center;
+}
+
+#u1340-4
+{
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	color: #666666;
+	font-family: cuprum, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1331
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
 }
 

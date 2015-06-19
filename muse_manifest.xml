@@ -1,8 +1,8 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434685432043">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434686333232">
   <folder name="css">
-    <file name="site_global.css" crc="438240654"/>
-    <file name="master_home.css" crc="58563091" ref="index:war:tips:about-us"/>
-    <file name="index.css" crc="430891659" ref="index"/>
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_home.css" crc="325228041" ref="index:war:tips:about-us"/>
+    <file name="index.css" crc="386151870" ref="index"/>
     <file name="war.css" crc="3873238345" ref="war"/>
     <file name="tips.css" crc="3873238345" ref="tips"/>
     <file name="about-us.css" crc="3873238345" ref="about-us"/>
@@ -21,25 +21,26 @@
   </folder>
   <folder name="images">
     <file name="snm bg.jpg" crc="6689433" ref="phone>index:war"/>
+    <file name="gem.png" crc="441005828" ref="phone>index"/>
     <file name="gesture logo.jpg" crc="3895567066" ref="war"/>
     <file name="test.png" crc="104034106" ref="index"/>
     <file name="pa.jpg" crc="4241312577" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="228499438" ref="phone>war:phone>index:phone>about-us:phone>tips"/>
-      <file name="war.css" crc="4133306694" ref="phone>war"/>
-      <file name="index.css" crc="4133306694" ref="phone>index"/>
-      <file name="about-us.css" crc="4133306694" ref="phone>about-us"/>
-      <file name="tips.css" crc="4133306694" ref="phone>tips"/>
+      <file name="master_a-master.css" crc="4271425399" ref="phone>about-us:phone>index:phone>war:phone>tips"/>
+      <file name="about-us.css" crc="310579474" ref="phone>about-us"/>
+      <file name="index.css" crc="310579474" ref="phone>index"/>
+      <file name="war.css" crc="310579474" ref="phone>war"/>
+      <file name="tips.css" crc="310579474" ref="phone>tips"/>
     </folder>
-    <file name="index.html" crc="4194588257" mt="1434685326922" redirect="true"/>
-    <file name="war.html" crc="3827470401" mt="1434685326922" redirect="true"/>
-    <file name="about-us.html" crc="462964014" mt="1434685326922" redirect="true"/>
-    <file name="tips.html" crc="4189499122" mt="1434685326922" redirect="true"/>
+    <file name="index.html" crc="3994050314" mt="1434686281421" redirect="true"/>
+    <file name="war.html" crc="340875014" mt="1434686281421" redirect="true"/>
+    <file name="about-us.html" crc="316998034" mt="1434686281421" redirect="true"/>
+    <file name="tips.html" crc="158314473" mt="1434686281421" redirect="true"/>
   </folder>
-  <file name="war.html" crc="73037377" mt="1434685054703" redirect="true"/>
-  <file name="tips.html" crc="3775327855" mt="1434685054709" redirect="true"/>
-  <file name="about-us.html" crc="457072912" mt="1434685054714" redirect="true"/>
-  <file name="index.html" crc="444035321" mt="1434685054720" redirect="true"/>
+  <file name="war.html" crc="190253712" mt="1434685054703" redirect="true"/>
+  <file name="tips.html" crc="3993735870" mt="1434685054709" redirect="true"/>
+  <file name="about-us.html" crc="338894273" mt="1434685054714" redirect="true"/>
+  <file name="index.html" crc="4199415237" mt="1434685054720" redirect="true"/>
 </manifest>

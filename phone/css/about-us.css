@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #0000F6;
-	background-color: #5D4146;
+	color: #000012;
+	background-color: #831112;
 }
 
 @-ms-viewport
@@ -38,12 +38,12 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 402px;
+	min-height: 763px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 168px;
+	padding-bottom: 1px;
 }
 
 #pu1115
@@ -53,18 +53,18 @@
 
 #u1115,#u1115-bw
 {
-	z-index: 3;
+	z-index: 9;
 	height: 71px;
 }
 
 #u1119
 {
-	z-index: 5;
+	z-index: 11;
 }
 
 #u1120-3
 {
-	z-index: 6;
+	z-index: 12;
 	min-height: 51px;
 	padding-left: 10px;
 	padding-top: 10px;
@@ -89,12 +89,12 @@
 
 #u1121
 {
-	z-index: 9;
+	z-index: 15;
 }
 
 #menuu1122
 {
-	z-index: 10;
+	z-index: 16;
 	min-height: 180px;
 }
 
@@ -104,10 +104,38 @@
 	padding-bottom: 20px;
 }
 
+#u1126:hover
+{
+	min-height: 22px;
+	margin: 0px;
+}
+
+#u1126:active
+{
+	min-height: 22px;
+	margin: 0px;
+}
+
 #u1128-4
 {
 	min-height: 22px;
 	top: 10px;
+}
+
+#u1126:hover #u1128-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px;
+}
+
+#u1126:active #u1128-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px;
 }
 
 #u1154
@@ -122,6 +150,22 @@
 	top: 10px;
 }
 
+#u1126.MuseMenuActive #u1128-4,#u1154:hover #u1155-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px;
+}
+
+#u1154:active #u1155-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px;
+}
+
 #u1204
 {
 	min-height: 22px;
@@ -132,6 +176,22 @@
 {
 	min-height: 22px;
 	top: 10px;
+}
+
+#u1154.MuseMenuActive #u1155-4,#u1204:hover #u1207-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px;
+}
+
+#u1204:active #u1207-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px;
 }
 
 #u1179
@@ -152,7 +212,23 @@
 	top: 10px;
 }
 
-#u1126.MuseMenuActive #u1128-4,#u1154.MuseMenuActive #u1155-4,#u1204.MuseMenuActive #u1207-4,#u1179.MuseMenuActive #u1182-4
+#u1204.MuseMenuActive #u1207-4,#u1179:hover #u1182-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px;
+}
+
+#u1179:active #u1182-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px;
+}
+
+#u1179.MuseMenuActive #u1182-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -167,19 +243,19 @@
 
 #menuu1122-bw
 {
-	z-index: 10;
+	z-index: 16;
 	min-height: 180px;
 	margin-top: 2px;
 }
 
 #accordionu1118,#accordionu1118-bw
 {
-	z-index: 4;
+	z-index: 10;
 }
 
 #u1299
 {
-	z-index: 35;
+	z-index: 41;
 	width: 55px;
 	height: 4px;
 	margin-right: -10000px;
@@ -189,7 +265,7 @@
 
 #u1300
 {
-	z-index: 36;
+	z-index: 42;
 	width: 55px;
 	height: 4px;
 	margin-right: -10000px;
@@ -199,7 +275,7 @@
 
 #u1301
 {
-	z-index: 37;
+	z-index: 43;
 	width: 55px;
 	height: 4px;
 	margin-right: -10000px;
@@ -209,16 +285,54 @@
 
 #u1302
 {
-	z-index: 2;
-	height: 336px;
+	z-index: 8;
+	height: 327px;
 }
 
 #u1302-bw
 {
-	z-index: 2;
+	z-index: 8;
 	margin-top: -5px;
 	margin-bottom: -5px;
-	height: 336px;
+	height: 327px;
+}
+
+#pu1332
+{
+	width: 0.01px;
+	margin-left: 62px;
+	margin-top: 37px;
+}
+
+#u1332
+{
+	z-index: 3;
+	width: 227px;
+	height: 186px;
+	margin-right: -10000px;
+}
+
+#u1340-4
+{
+	z-index: 4;
+	width: 100px;
+	min-height: 35px;
+	margin-right: -10000px;
+	margin-top: 169px;
+	left: 78px;
+}
+
+#u1331
+{
+	z-index: 2;
+	height: 92px;
+}
+
+#u1331-bw
+{
+	z-index: 2;
+	margin-top: 38px;
+	height: 92px;
 }
 
 body
