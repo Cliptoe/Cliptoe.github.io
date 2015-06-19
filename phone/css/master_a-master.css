@@ -3,195 +3,194 @@
 	background-color: #000000;
 }
 
-#accordionu1118
+#accordionu1465
 {
-	border-color: #7F7F7F;
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
 }
 
-#u1120-3
+#u1475-3
 {
-	border-color: #FFFFFF;
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
-	color: #999999;
 	line-height: 14px;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
-#u1120-3.AccordionPanelTabOpen p
+#u1474,#u1475-3.AccordionPanelTabOpen
+{
+	background-color: transparent;
+}
+
+#u1475-3.AccordionPanelTabOpen p
 {
 	color: #4F4F4F;
 	visibility: inherit;
 }
 
-#u1121
+.js #u1475-3.ose_pre_init
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u1476
 {
 	border-style: none;
 	border-color: transparent;
-	background-color: #8C8C8C;
-	background-color: rgba(0,0,0,0.45);
-	-pie-background: rgba(0,0,0,0.45);
-}
-
-#menuu1122
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u1126
-{
-	border-style: solid;
-	border-color: #000000;
 	background-color: #000000;
-	position: relative;
-	border-width: 0px 0px 1px;
 }
 
-#u1128-4
+#u1476:active
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#menuu1494
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
-	font-size: 18px;
-	text-align: center;
+	position: relative;
+}
+
+#u1502,#u1503
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u1506-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: right;
 	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u1126:hover #u1128-4 p
+#u1503:hover #u1506-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u1126:active #u1128-4 p
+#u1503:active #u1506-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u1154
+#u1495,#u1496
 {
-	border-style: solid;
-	border-color: #000000;
-	background-color: #000000;
+	background-color: transparent;
 	position: relative;
-	border-width: 0px 0px 1px;
 }
 
-#u1155-4
+#u1498-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
-	font-size: 18px;
-	text-align: center;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: right;
 	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u1154:hover #u1155-4 p
+#u1503.MuseMenuActive #u1506-4 p,#u1496:hover #u1498-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u1154:active #u1155-4 p
+#u1496:active #u1498-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u1204
+#u1509,#u1510
 {
-	border-style: solid;
-	border-color: #000000;
-	background-color: #000000;
+	background-color: transparent;
 	position: relative;
-	border-width: 0px 0px 1px;
 }
 
-#u1207-4
+#u1513-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
-	font-size: 18px;
-	text-align: center;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: right;
 	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u1204:hover #u1207-4 p
+#u1496.MuseMenuActive #u1498-4 p,#u1510:hover #u1513-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u1204:active #u1207-4 p
+#u1510:active #u1513-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u1119,#u1120-3.AccordionPanelTabOpen,#u1123,#u1153,#u1203,#u1178
+#u1516,#u1519
 {
 	background-color: transparent;
-}
-
-#u1179
-{
-	border-style: solid;
-	border-color: #000000;
-	background-color: #000000;
 	position: relative;
-	border-width: 0px 0px 1px;
 }
 
-#u1182-4
+#u1522-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
-	font-size: 18px;
-	text-align: center;
+	line-height: 20px;
+	font-size: 17px;
+	text-align: right;
 	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u1179:hover #u1182-4 p
+#u1510.MuseMenuActive #u1513-4 p,#u1519:hover #u1522-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u1179:active #u1182-4 p
+#u1519:active #u1522-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
 }
 
-#u1126.MuseMenuActive #u1128-4 p,#u1154.MuseMenuActive #u1155-4 p,#u1204.MuseMenuActive #u1207-4 p,#u1179.MuseMenuActive #u1182-4 p
+#u1519.MuseMenuActive #u1522-4 p
 {
 	color: #FFFFFF;
 	visibility: inherit;
-	font-family: maven-pro, sans-serif;
-	font-weight: 500;
-	font-style: normal;
 }
 
 .MenuItem,.AccordionPanelTab /* unifiedNavBar */
@@ -202,12 +201,12 @@
 #u1299,#u1300,#u1301
 {
 	background-color: #FFFFFF;
-	position: relative;
+	position: fixed;
 }
 
 #u1302
 {
-	background: transparent url("../../images/snm%20bg.jpg") no-repeat center center;
+	background: #FFFFFF url("../../images/dpp%20bg%20iphone.jpg") no-repeat center center;
 }
 
 #u1332

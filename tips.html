@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "jquery.musemenu.js", "museredirect.js", "jquery.scrolleffects.js", "tips.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.watch.js", "jquery.musemenu.js", "museredirect.js", "tips.css"], "outOfDate":[]};
 </script>
   
   <script src="scripts/museredirect.js?4117159434" type="text/javascript"></script>
@@ -17,7 +17,7 @@
   <title>TIPS</title>
   <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://cliptoe.github.io/phone/tips.html"/>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?422415861"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?438240654"/>
   <link rel="stylesheet" type="text/css" href="css/master_home.css?325228041"/>
   <link rel="stylesheet" type="text/css" href="css/tips.css?3873238345" id="pagesheet"/>
   <!-- Other scripts -->
@@ -80,14 +80,14 @@ for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.re
 typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-$('#u79').registerOpacityScrollEffect([{"in":[-Infinity,56],"opacity":100,"fade":80},{"in":[56,56],"opacity":100},{"in":[56,Infinity],"opacity":100,"fade":0}]);/* scroll effect */
-$('#u1025').registerOpacityScrollEffect([{"in":[-Infinity,22],"opacity":100,"fade":0},{"in":[22,22],"opacity":100},{"in":[22,Infinity],"opacity":100,"fade":0}]);/* scroll effect */
-$('#u974').registerOpacityScrollEffect([{"in":[-Infinity,22],"opacity":100,"fade":0},{"in":[22,22],"opacity":100},{"in":[22,Infinity],"opacity":100,"fade":0}]);/* scroll effect */
-$('#u988').registerOpacityScrollEffect([{"in":[-Infinity,-78],"opacity":100,"fade":50},{"in":[-78,-78],"opacity":100},{"in":[-78,Infinity],"opacity":100,"fade":50}]);/* scroll effect */
-$('#u995').registerOpacityScrollEffect([{"in":[-Infinity,56],"opacity":100,"fade":0},{"in":[56,56],"opacity":100},{"in":[56,Infinity],"opacity":100,"fade":0}]);/* scroll effect */
+$('#u79').registerOpacityScrollEffect([{"fade":80,"in":[-Infinity,56],"opacity":100},{"in":[56,56],"opacity":100},{"fade":0,"in":[56,Infinity],"opacity":100}]);/* scroll effect */
+$('#u1025').registerOpacityScrollEffect([{"fade":0,"in":[-Infinity,22],"opacity":100},{"in":[22,22],"opacity":100},{"fade":0,"in":[22,Infinity],"opacity":100}]);/* scroll effect */
+$('#u974').registerOpacityScrollEffect([{"fade":0,"in":[-Infinity,22],"opacity":100},{"in":[22,22],"opacity":100},{"fade":0,"in":[22,Infinity],"opacity":100}]);/* scroll effect */
+$('#u988').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,-78],"opacity":100},{"in":[-78,-78],"opacity":100},{"fade":50,"in":[-78,Infinity],"opacity":100}]);/* scroll effect */
+$('#u995').registerOpacityScrollEffect([{"fade":0,"in":[-Infinity,56],"opacity":100},{"in":[56,56],"opacity":100},{"fade":0,"in":[56,Infinity],"opacity":100}]);/* scroll effect */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#menuu972').registerOpacityScrollEffect([{"in":[-Infinity,62.85],"opacity":100,"fade":0},{"in":[62.85,62.85],"opacity":100},{"in":[62.85,Infinity],"opacity":100,"fade":0}]);/* scroll effect */
-$('#u1001').registerOpacityScrollEffect([{"in":[-Infinity,56],"opacity":100,"fade":0},{"in":[56,56],"opacity":100},{"in":[56,Infinity],"opacity":100,"fade":0}]);/* scroll effect */
+$('#menuu972').registerOpacityScrollEffect([{"fade":0,"in":[-Infinity,62.85],"opacity":100},{"in":[62.85,62.85],"opacity":100},{"fade":0,"in":[62.85,Infinity],"opacity":100}]);/* scroll effect */
+$('#u1001').registerOpacityScrollEffect([{"fade":0,"in":[-Infinity,56],"opacity":100},{"in":[56,56],"opacity":100},{"fade":0,"in":[56,Infinity],"opacity":100}]);/* scroll effect */
 Muse.Utils.resizeHeight()/* resize height */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

@@ -1,6 +1,6 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434686333232">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434737100452">
   <folder name="css">
-    <file name="site_global.css" crc="422415861"/>
+    <file name="site_global.css" crc="438240654"/>
     <file name="master_home.css" crc="325228041" ref="index:war:tips:about-us"/>
     <file name="index.css" crc="386151870" ref="index"/>
     <file name="war.css" crc="3873238345" ref="war"/>
@@ -11,36 +11,36 @@
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
     <file name="museutils.js" crc="521960461" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
     <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
-    <file name="pie.js" crc="3827607177" ref="phone>index"/>
     <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
     <file name="webpro.js" crc="220831917" ref="phone>index:phone>war:phone>about-us:phone>tips"/>
     <file name="musewpdisclosure.js" crc="4110183178" ref="phone>index:phone>war:phone>about-us:phone>tips"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
     <file name="museredirect.js" crc="4117159434" ref="war:tips:about-us:index"/>
-    <file name="jquery.scrolleffects.js" crc="4038615763" ref="war:tips:about-us:index"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="war:tips:about-us:index:phone>index:phone>war:phone>about-us:phone>tips"/>
   </folder>
   <folder name="images">
-    <file name="snm bg.jpg" crc="6689433" ref="phone>index:war"/>
+    <file name="snm bg.jpg" crc="6689433" ref="war"/>
     <file name="gem.png" crc="441005828" ref="phone>index"/>
     <file name="gesture logo.jpg" crc="3895567066" ref="war"/>
     <file name="test.png" crc="104034106" ref="index"/>
     <file name="pa.jpg" crc="4241312577" ref="index"/>
+    <file name="dpp bg iphone.jpg" crc="3949710415" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="4271425399" ref="phone>about-us:phone>index:phone>war:phone>tips"/>
-      <file name="about-us.css" crc="310579474" ref="phone>about-us"/>
-      <file name="index.css" crc="310579474" ref="phone>index"/>
-      <file name="war.css" crc="310579474" ref="phone>war"/>
-      <file name="tips.css" crc="310579474" ref="phone>tips"/>
+      <file name="master_a-master.css" crc="162959798" ref="phone>about-us:phone>index:phone>war:phone>tips"/>
+      <file name="about-us.css" crc="3946802874" ref="phone>about-us"/>
+      <file name="index.css" crc="3946802874" ref="phone>index"/>
+      <file name="war.css" crc="3946802874" ref="phone>war"/>
+      <file name="tips.css" crc="3946802874" ref="phone>tips"/>
     </folder>
-    <file name="index.html" crc="3994050314" mt="1434686281421" redirect="true"/>
-    <file name="war.html" crc="340875014" mt="1434686281421" redirect="true"/>
-    <file name="about-us.html" crc="316998034" mt="1434686281421" redirect="true"/>
-    <file name="tips.html" crc="158314473" mt="1434686281421" redirect="true"/>
+    <file name="index.html" crc="4082236687" mt="1434737080941" redirect="true"/>
+    <file name="war.html" crc="4159060030" mt="1434737080941" redirect="true"/>
+    <file name="about-us.html" crc="3810905476" mt="1434737080941" redirect="true"/>
+    <file name="tips.html" crc="3821632407" mt="1434737080941" redirect="true"/>
   </folder>
-  <file name="war.html" crc="190253712" mt="1434685054703" redirect="true"/>
-  <file name="tips.html" crc="3993735870" mt="1434685054709" redirect="true"/>
-  <file name="about-us.html" crc="338894273" mt="1434685054714" redirect="true"/>
-  <file name="index.html" crc="4199415237" mt="1434685054720" redirect="true"/>
+  <file name="war.html" crc="3975014" mt="1434735817931" redirect="true"/>
+  <file name="tips.html" crc="216929711" mt="1434735817931" redirect="true"/>
+  <file name="about-us.html" crc="441473970" mt="1434735817931" redirect="true"/>
+  <file name="index.html" crc="4118363939" mt="1434735817931" redirect="true"/>
 </manifest>

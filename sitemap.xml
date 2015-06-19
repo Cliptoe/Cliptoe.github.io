@@ -2,58 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://cliptoe.github.io/images/snm%20bg.jpg</loc>
-    <lastmod>2015-06-18</lastmod>
+    <lastmod>2015-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://cliptoe.github.io/images/gem.png</loc>
-    <lastmod>2015-06-18</lastmod>
+    <lastmod>2015-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://cliptoe.github.io/images/gesture%20logo.jpg</loc>
-    <lastmod>2015-06-18</lastmod>
+    <lastmod>2015-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://cliptoe.github.io/images/test.png</loc>
-    <lastmod>2015-06-18</lastmod>
+    <lastmod>2015-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://cliptoe.github.io/images/pa.jpg</loc>
-    <lastmod>2015-06-18</lastmod>
+    <lastmod>2015-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cliptoe.github.io/images/dpp%20bg%20iphone.jpg</loc>
+    <lastmod>2015-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://cliptoe.github.io/war.html</loc>
-    <lastmod>2015-06-18</lastmod>
+    <lastmod>2015-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://cliptoe.github.io/phone/war.html"/>
   </url>
   <url>
     <loc>http://cliptoe.github.io/tips.html</loc>
-    <lastmod>2015-06-18</lastmod>
+    <lastmod>2015-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://cliptoe.github.io/phone/tips.html"/>
   </url>
   <url>
     <loc>http://cliptoe.github.io/about-us.html</loc>
-    <lastmod>2015-06-18</lastmod>
+    <lastmod>2015-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://cliptoe.github.io/phone/about-us.html"/>
   </url>
   <url>
     <loc>http://cliptoe.github.io/index.html</loc>
-    <lastmod>2015-06-18</lastmod>
+    <lastmod>2015-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://cliptoe.github.io/phone/index.html"/>
