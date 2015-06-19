@@ -1,26 +1,45 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434427312703">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434685432043">
   <folder name="css">
-    <file name="site_global.css" crc="422415861"/>
-    <file name="master_home.css" crc="203395320" ref="tips:index:war:about-us"/>
-    <file name="tips.css" crc="4217997354" ref="tips"/>
-    <file name="index.css" crc="525430845" ref="index"/>
-    <file name="war.css" crc="4217997354" ref="war"/>
-    <file name="about-us.css" crc="4217997354" ref="about-us"/>
+    <file name="site_global.css" crc="438240654"/>
+    <file name="master_home.css" crc="58563091" ref="index:war:tips:about-us"/>
+    <file name="index.css" crc="430891659" ref="index"/>
+    <file name="war.css" crc="3873238345" ref="war"/>
+    <file name="tips.css" crc="3873238345" ref="tips"/>
+    <file name="about-us.css" crc="3873238345" ref="about-us"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="war:tips:about-us:index"/>
-    <file name="museutils.js" crc="521960461" ref="war:tips:about-us:index"/>
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
+    <file name="webpro.js" crc="220831917" ref="phone>index:phone>war:phone>about-us:phone>tips"/>
+    <file name="musewpdisclosure.js" crc="4110183178" ref="phone>index:phone>war:phone>about-us:phone>tips"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
+    <file name="museredirect.js" crc="4117159434" ref="war:tips:about-us:index"/>
     <file name="jquery.scrolleffects.js" crc="4038615763" ref="war:tips:about-us:index"/>
-    <file name="jquery.musemenu.js" crc="397543671" ref="war:tips:about-us:index"/>
-    <file name="jquery.watch.js" crc="56779320" ref="war:tips:about-us:index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="war:tips:about-us:index"/>
   </folder>
   <folder name="images">
+    <file name="snm bg.jpg" crc="6689433" ref="phone>index:war"/>
     <file name="gesture logo.jpg" crc="3895567066" ref="war"/>
-    <file name="snm bg.jpg" crc="6689433" ref="war"/>
+    <file name="test.png" crc="104034106" ref="index"/>
+    <file name="pa.jpg" crc="4241312577" ref="index"/>
   </folder>
-  <file name="war.html" crc="330131293" mt="1434425190958" redirect="true"/>
-  <file name="tips.html" crc="39062071" mt="1434425190958" redirect="true"/>
-  <file name="about-us.html" crc="4294454828" mt="1434425190958" redirect="true"/>
-  <file name="index.html" crc="4007944387" mt="1434427255037" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="228499438" ref="phone>war:phone>index:phone>about-us:phone>tips"/>
+      <file name="war.css" crc="4133306694" ref="phone>war"/>
+      <file name="index.css" crc="4133306694" ref="phone>index"/>
+      <file name="about-us.css" crc="4133306694" ref="phone>about-us"/>
+      <file name="tips.css" crc="4133306694" ref="phone>tips"/>
+    </folder>
+    <file name="index.html" crc="4194588257" mt="1434685326922" redirect="true"/>
+    <file name="war.html" crc="3827470401" mt="1434685326922" redirect="true"/>
+    <file name="about-us.html" crc="462964014" mt="1434685326922" redirect="true"/>
+    <file name="tips.html" crc="4189499122" mt="1434685326922" redirect="true"/>
+  </folder>
+  <file name="war.html" crc="73037377" mt="1434685054703" redirect="true"/>
+  <file name="tips.html" crc="3775327855" mt="1434685054709" redirect="true"/>
+  <file name="about-us.html" crc="457072912" mt="1434685054714" redirect="true"/>
+  <file name="index.html" crc="444035321" mt="1434685054720" redirect="true"/>
 </manifest>
