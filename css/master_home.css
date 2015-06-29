@@ -31,10 +31,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #666666;
 	font-size: 17px;
 	text-align: center;
-	color: #666666;
+	line-height: 20px;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -57,10 +57,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #666666;
 	font-size: 17px;
 	text-align: center;
-	color: #666666;
+	line-height: 20px;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -83,10 +83,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #666666;
 	font-size: 17px;
 	text-align: center;
-	color: #666666;
+	line-height: 20px;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -109,10 +109,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #666666;
 	font-size: 17px;
 	text-align: center;
-	color: #666666;
+	line-height: 20px;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -161,5 +161,22 @@
 	border-color: transparent;
 	background-color: #000000;
 	position: relative;
+}
+
+#u1638-4
+{
+	background-color: transparent;
+	color: #666666;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
+	font-family: cuprum, sans-serif;
+	font-weight: 400;
+}
+
+#u1618
+{
+	position: relative;
+	background: transparent url("../images/bar.png") no-repeat center center;
 }
 

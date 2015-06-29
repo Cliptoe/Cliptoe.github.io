@@ -1,11 +1,11 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434737100452">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1435564834582">
   <folder name="css">
-    <file name="site_global.css" crc="438240654"/>
-    <file name="master_home.css" crc="325228041" ref="index:war:tips:about-us"/>
-    <file name="index.css" crc="386151870" ref="index"/>
-    <file name="war.css" crc="3873238345" ref="war"/>
-    <file name="tips.css" crc="3873238345" ref="tips"/>
-    <file name="about-us.css" crc="3873238345" ref="about-us"/>
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_home.css" crc="310523774" ref="index:war:tips:about-us"/>
+    <file name="index.css" crc="293365221" ref="index"/>
+    <file name="war.css" crc="295667259" ref="war"/>
+    <file name="tips.css" crc="295667259" ref="tips"/>
+    <file name="about-us.css" crc="295667259" ref="about-us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>war:phone>about-us:phone>tips:war:tips:about-us:index"/>
@@ -19,28 +19,28 @@
     <file name="jquery.scrolleffects.js" crc="4038615763" ref="war:tips:about-us:index:phone>index:phone>war:phone>about-us:phone>tips"/>
   </folder>
   <folder name="images">
-    <file name="snm bg.jpg" crc="6689433" ref="war"/>
-    <file name="gem.png" crc="441005828" ref="phone>index"/>
-    <file name="gesture logo.jpg" crc="3895567066" ref="war"/>
-    <file name="test.png" crc="104034106" ref="index"/>
-    <file name="pa.jpg" crc="4241312577" ref="index"/>
-    <file name="dpp bg iphone.jpg" crc="3949710415" ref="phone>index"/>
+    <file name="snm bg.jpg" crc="4185066386" ref="war"/>
+    <file name="gesture logo.jpg" crc="56358679" ref="war"/>
+    <file name="dpp bg iphone.jpg" crc="440800424" ref="phone>index"/>
+    <file name="bar.png" crc="523276009" ref="war"/>
+    <file name="6573fdb526a166ae433be0c2dc72a423.jpg" crc="483384435" ref="index"/>
+    <file name="71f15263d73bb320248f01fee476df49.jpg" crc="4244827998" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="162959798" ref="phone>about-us:phone>index:phone>war:phone>tips"/>
-      <file name="about-us.css" crc="3946802874" ref="phone>about-us"/>
-      <file name="index.css" crc="3946802874" ref="phone>index"/>
-      <file name="war.css" crc="3946802874" ref="phone>war"/>
-      <file name="tips.css" crc="3946802874" ref="phone>tips"/>
+      <file name="master_a-master.css" crc="4040481116" ref="phone>about-us:phone>index:phone>war:phone>tips"/>
+      <file name="about-us.css" crc="3951489946" ref="phone>about-us"/>
+      <file name="index.css" crc="3951489946" ref="phone>index"/>
+      <file name="war.css" crc="3951489946" ref="phone>war"/>
+      <file name="tips.css" crc="3951489946" ref="phone>tips"/>
     </folder>
-    <file name="index.html" crc="4082236687" mt="1434737080941" redirect="true"/>
-    <file name="war.html" crc="4159060030" mt="1434737080941" redirect="true"/>
-    <file name="about-us.html" crc="3810905476" mt="1434737080941" redirect="true"/>
-    <file name="tips.html" crc="3821632407" mt="1434737080941" redirect="true"/>
+    <file name="index.html" crc="7070258" mt="1435564807279" redirect="true"/>
+    <file name="war.html" crc="434349036" mt="1435564807279" redirect="true"/>
+    <file name="about-us.html" crc="255961164" mt="1435564807279" redirect="true"/>
+    <file name="tips.html" crc="133975456" mt="1435564807279" redirect="true"/>
   </folder>
-  <file name="war.html" crc="3975014" mt="1434735817931" redirect="true"/>
-  <file name="tips.html" crc="216929711" mt="1434735817931" redirect="true"/>
-  <file name="about-us.html" crc="441473970" mt="1434735817931" redirect="true"/>
-  <file name="index.html" crc="4118363939" mt="1434735817931" redirect="true"/>
+  <file name="war.html" crc="251547535" mt="1435563964244" redirect="true"/>
+  <file name="tips.html" crc="194386437" mt="1435563964244" redirect="true"/>
+  <file name="about-us.html" crc="16647826" mt="1435564095635" redirect="true"/>
+  <file name="index.html" crc="417331632" mt="1435563964244" redirect="true"/>
 </manifest>

@@ -15,8 +15,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
 	color: #999999;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
@@ -70,10 +70,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #666666;
 	font-size: 17px;
 	text-align: right;
-	color: #666666;
+	line-height: 20px;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -102,10 +102,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #666666;
 	font-size: 17px;
 	text-align: right;
-	color: #666666;
+	line-height: 20px;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -134,10 +134,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #666666;
 	font-size: 17px;
 	text-align: right;
-	color: #666666;
+	line-height: 20px;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -166,10 +166,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
+	color: #666666;
 	font-size: 17px;
 	text-align: right;
-	color: #666666;
+	line-height: 20px;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -209,18 +209,12 @@
 	background: #FFFFFF url("../../images/dpp%20bg%20iphone.jpg") no-repeat center center;
 }
 
-#u1332
-{
-	position: relative;
-	background: transparent url("../../images/gem.png") no-repeat center center;
-}
-
-#u1340-4
+#u1809-4
 {
 	background-color: transparent;
-	line-height: 22px;
-	font-size: 18px;
-	color: #666666;
+	font-size: 28px;
+	text-align: center;
+	line-height: 34px;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
