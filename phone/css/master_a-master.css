@@ -1,44 +1,45 @@
-#u1115
+#u1475-8
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	line-height: 10px;
+	font-size: 40px;
+	text-align: right;
+	color: #FFFFFF;
+	letter-spacing: -3px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u1475-8:hover
 {
 	background-color: #000000;
 }
 
-#accordionu1465
+#u1475-8:active
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
+	background-color: #000000;
 }
 
-#u1475-3
+#u1475-8.AccordionPanelTabOpen p
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	color: #999999;
-	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-}
-
-#u1474,#u1475-3.AccordionPanelTabOpen
-{
-	background-color: transparent;
-}
-
-#u1475-3.AccordionPanelTabOpen p
-{
-	color: #4F4F4F;
+	color: #FFFFFF;
 	visibility: inherit;
+	letter-spacing: -3px;
+	font-size: 40px;
+	text-align: right;
+	line-height: 0.25;
+	text-indent: 0px;
 }
 
-.js #u1475-3.ose_pre_init
+.js #u1475-8.ose_pre_init
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 }
 
-#u1476
+#accordionu1465,#u1476
 {
 	border-style: none;
 	border-color: transparent;
@@ -56,10 +57,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
 }
 
-#u1502,#u1503
+#u1503
 {
 	background-color: transparent;
 	position: relative;
@@ -70,10 +70,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #666666;
+	line-height: 20px;
 	font-size: 17px;
 	text-align: right;
-	line-height: 20px;
+	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -91,7 +91,7 @@
 	visibility: inherit;
 }
 
-#u1495,#u1496
+#u1496
 {
 	background-color: transparent;
 	position: relative;
@@ -102,10 +102,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #666666;
+	line-height: 20px;
 	font-size: 17px;
 	text-align: right;
-	line-height: 20px;
+	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -123,7 +123,7 @@
 	visibility: inherit;
 }
 
-#u1509,#u1510
+#u1510
 {
 	background-color: transparent;
 	position: relative;
@@ -134,10 +134,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #666666;
+	line-height: 20px;
 	font-size: 17px;
 	text-align: right;
-	line-height: 20px;
+	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -155,7 +155,12 @@
 	visibility: inherit;
 }
 
-#u1516,#u1519
+#u1474,#u1475-8.AccordionPanelTabOpen,#u1502,#u1495,#u1509,#u1516
+{
+	background-color: transparent;
+}
+
+#u1519
 {
 	background-color: transparent;
 	position: relative;
@@ -166,10 +171,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #666666;
+	line-height: 20px;
 	font-size: 17px;
 	text-align: right;
-	line-height: 20px;
+	color: #666666;
 	font-family: cuprum, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -198,26 +203,9 @@
 	cursor: pointer;
 }
 
-#u1299,#u1300,#u1301
+#u1816
 {
-	background-color: #FFFFFF;
-	position: fixed;
-}
-
-#u1302
-{
-	background: #FFFFFF url("../../images/dpp%20bg%20iphone.jpg") no-repeat center center;
-}
-
-#u1809-4
-{
-	background-color: transparent;
-	font-size: 28px;
-	text-align: center;
-	line-height: 34px;
-	font-family: cuprum, sans-serif;
-	font-weight: 400;
-	position: relative;
+	background: #000000 url("../../images/dpp%20bg%20iphone.jpg") no-repeat center center;
 }
 
 #u1331
